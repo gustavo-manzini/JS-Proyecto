@@ -3,7 +3,7 @@ const productos = [
     { nombre: "galletas", precio: 70, esencial: true },
     { nombre: "pan", precio: 10, esencial: false },
     { nombre: "leche", precio: 40, esencial: true },
-    { nombre: "gaseosa", precio: 150, esencial: false },
+    { nombre: "gaseosa", precio: 150, esencial: fals },
 ];
 
 class CarritoDeCompras {
